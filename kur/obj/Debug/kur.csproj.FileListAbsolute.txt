@@ -1,0 +1,14 @@
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\bin\Debug\kur.exe.config
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\bin\Debug\kur.exe
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\bin\Debug\kur.pdb
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.csproj.SuggestedBindingRedirects.cache
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.Form1.resources
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.Form2.resources
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.exe
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.pdb
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.Form3.resources
+C:\Users\сс\OneDrive\Рабочий стол\pizdec\kur\kur\obj\Debug\kur.Form4.resources
